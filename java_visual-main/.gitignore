@@ -1,0 +1,49 @@
+# ======================
+# Node / JavaScript
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Build hasil compile
+# ======================
+dist/
+build/
+.expo/
+.expo-shared/
+
+# ======================
+# Android / React Native
+# ======================
+.android/
+*.keystore
+*.jks
+*.xml
+sdkbin-*
+
+# ======================
+# Environment file
+# ======================
+.env
+.env.local
+.env.*
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# Sistem
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# File tidak penting
+# ======================
+*.log
+*.tmp
+*.cache
